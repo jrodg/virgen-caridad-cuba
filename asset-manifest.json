@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/virgen-caridad-cuba/static/css/main.7cb3e467.css",
+    "main.js": "/virgen-caridad-cuba/static/js/main.f586ce08.js",
+    "static/js/453.66cbb97d.chunk.js": "/virgen-caridad-cuba/static/js/453.66cbb97d.chunk.js",
+    "index.html": "/virgen-caridad-cuba/index.html",
+    "main.7cb3e467.css.map": "/virgen-caridad-cuba/static/css/main.7cb3e467.css.map",
+    "main.f586ce08.js.map": "/virgen-caridad-cuba/static/js/main.f586ce08.js.map",
+    "453.66cbb97d.chunk.js.map": "/virgen-caridad-cuba/static/js/453.66cbb97d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb3e467.css",
+    "static/js/main.f586ce08.js"
+  ]
+}
